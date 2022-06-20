@@ -1,4 +1,4 @@
-<h1>Repository for b.telligent - Python Snippets</h1>
+<h1>Repository - Python Snippets</h1>
 This rep contains several modules with different use cases.
 <hr>
 
